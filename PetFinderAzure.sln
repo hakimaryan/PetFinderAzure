@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinderWebRole", "PetFind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinderWorkerRole", "PetFinderWorkerRole\PetFinderWorkerRole.csproj", "{64EC4ACD-DFE2-477C-AB0E-5F0395C038E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinderAdsCommon", "PetFinderAdsCommon\PetFinderAdsCommon.csproj", "{00D94D68-98C6-4B52-A325-E2CA7CC698C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{64EC4ACD-DFE2-477C-AB0E-5F0395C038E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64EC4ACD-DFE2-477C-AB0E-5F0395C038E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64EC4ACD-DFE2-477C-AB0E-5F0395C038E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D94D68-98C6-4B52-A325-E2CA7CC698C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D94D68-98C6-4B52-A325-E2CA7CC698C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D94D68-98C6-4B52-A325-E2CA7CC698C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D94D68-98C6-4B52-A325-E2CA7CC698C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
